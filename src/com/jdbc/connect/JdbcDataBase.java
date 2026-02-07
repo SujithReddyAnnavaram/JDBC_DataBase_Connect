@@ -10,8 +10,8 @@ public class JdbcDataBase {
 	static int noOfRowsEffected;
 	
 	static String url="jdbc:mysql://localhost:3306/jdbclearning";
-	static String user="root";
-	static String password="jdbcjdbc";
+	static String user="XXXXXX";
+	static String password="XXXXXXX";
 	
 	public static void main(String []args) {	
 		
